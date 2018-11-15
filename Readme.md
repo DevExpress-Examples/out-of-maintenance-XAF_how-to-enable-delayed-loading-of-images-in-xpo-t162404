@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[SampleObject.cs](./CS/DelayedImagesXPO.Module/BusinessObjects/SampleObject.cs) (VB: [SampleObject.vb](./VB/DelayedImagesXPO.Module/BusinessObjects/SampleObject.vb))**
+<!-- default file list end -->
 # How to enable delayed loading of images in XPO
 
 
